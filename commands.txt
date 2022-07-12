@@ -1,0 +1,23 @@
+{
+'ping': ['ping', 'test', 'latency', 'latenz'],
+'nothing': ['nothing'],
+'join': ['join', 'j'],
+'leave': ['leave', 'l'],
+'play': ['play', 'p'],
+'pause': ['pause'],
+'resume': ['resume'],
+'stop': ['stop'],
+'help_message': ['help', 'h', '?'],
+'changeprefix': ['prefix'],
+'skip': ['skip', 'next', 's', 'n'],
+'back': ['back', 'b'],
+'restart': ['restart', 'r'],
+'add_playlist': ['add_list', 'add_playlist'],
+'delete_playlist': ['delete_list', 'delete_playlist'],
+'add_song': ['add'],
+'remove_song': ['remove', 'rm'],
+'list_all_playlists': ['lists', 'playlists'],
+'list_all_songs_of_playlist': ['list', 'playlist'],
+'shuffle_playlist': ['shuffle'],
+'unknown_commands': ['top10']
+}
